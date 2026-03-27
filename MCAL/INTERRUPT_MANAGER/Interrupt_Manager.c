@@ -1,5 +1,5 @@
 #include "../USART/USART_Interface.h"
-#include "../EXT_INT/EXT_INT_interface.h"
+#include "../EXT_INT/EXT_INT_Interface.h"
 #include "../TIMER_0/TIMER_0_Interface.h"
 #include "../TIMER_0/TIMER_0_Private.h"
 #include "../../SERVICES/BIT_MATH.h"
